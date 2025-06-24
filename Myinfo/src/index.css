@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body{
+    background-color: whitesmoke;
+}
+
+body, html {
+ font-family: 'Inter', sans-serif;
+}
